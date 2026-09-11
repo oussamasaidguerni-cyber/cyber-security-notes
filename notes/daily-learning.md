@@ -1,3 +1,10 @@
+## 2026-09-11
+
+- **Topic:** Headers
+- **Note:** Scan for missing HSTS/Content-Security-Policy on any target - easy finding categories for bug bounties
+
+---
+
 # Daily Security Learning Journal
 
 One curated note per day - keeping the streak honest.
