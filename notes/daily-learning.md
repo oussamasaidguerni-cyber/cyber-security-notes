@@ -1,3 +1,10 @@
+## 2026-09-12
+
+- **Topic:** Rate Limiting
+- **Note:** Two-stage auth bypass: many apps rate-limit password tries but not the 2FA/OTP field
+
+---
+
 ## 2026-09-11
 
 - **Topic:** Headers
