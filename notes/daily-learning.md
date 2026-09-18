@@ -1,3 +1,10 @@
+## 2026-09-18
+
+- **Topic:** SSRF
+- **Note:** Test URL params with localhost/169.254.169.254; many firewalls only block public IPs
+
+---
+
 ## 2026-09-17
 
 - **Topic:** Password Reset
