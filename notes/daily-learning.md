@@ -1,3 +1,10 @@
+## 2026-09-26
+
+- **Topic:** Auth
+- **Note:** JWT alg confusion: try 'none' and RS256->HS256 swaps before hunting elsewhere
+
+---
+
 ## 2026-09-25
 
 - **Topic:** IDOR
