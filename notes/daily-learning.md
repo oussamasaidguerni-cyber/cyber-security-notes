@@ -1,3 +1,10 @@
+## 2026-09-27
+
+- **Topic:** Fuzzing
+- **Note:** ffuf -ac auto-calibrates to filter default responses - much cleaner results on custom apps
+
+---
+
 ## 2026-09-26
 
 - **Topic:** Auth
