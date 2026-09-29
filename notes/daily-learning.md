@@ -1,3 +1,10 @@
+## 2026-09-29
+
+- **Topic:** Deserialization
+- **Note:** Check which libraries/plugins the app uses - known gadget chains beat fuzzing blindness
+
+---
+
 ## 2026-09-28
 
 - **Topic:** Networking
