@@ -1,3 +1,10 @@
+## 2026-10-07
+
+- **Topic:** Password Reset
+- **Note:** Host header poisoning on password reset links is still a top payout bug - always test it
+
+---
+
 ## 2026-10-06
 
 - **Topic:** JS Analysis
