@@ -1,3 +1,10 @@
+## 2026-10-09
+
+- **Topic:** Open Redirect
+- **Note:** Check //evil.com and /\evil.com rewrites - simple filter bypasses that turn into OAuth token theft
+
+---
+
 ## 2026-10-08
 
 - **Topic:** SSRF
