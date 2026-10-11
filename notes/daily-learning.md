@@ -1,3 +1,10 @@
+## 2026-10-11
+
+- **Topic:** Recon
+- **Note:** crt.sh JSON API gives historical subdomains for free. Pipe through jq and sort -u to find takeover targets
+
+---
+
 ## 2026-10-10
 
 - **Topic:** Logging
