@@ -1,3 +1,10 @@
+## 2026-10-13
+
+- **Topic:** XSS
+- **Note:** Test every reflection point's encoder: the same payload works differently in HTML, attribute, JS and URL contexts
+
+---
+
 ## 2026-10-12
 
 - **Topic:** SQLi
