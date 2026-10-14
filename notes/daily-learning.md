@@ -1,3 +1,10 @@
+## 2026-10-14
+
+- **Topic:** Burp Suite
+- **Note:** Use Match/Replace rules in Burp to auto-append headers (e.g. X-Forwarded-For) to every request
+
+---
+
 ## 2026-10-13
 
 - **Topic:** XSS
