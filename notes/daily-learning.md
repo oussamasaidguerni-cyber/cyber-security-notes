@@ -1,3 +1,10 @@
+## 2026-10-20
+
+- **Topic:** CORS
+- **Note:** Reflected Origin + ACAO: * : combined with credentials cookies is a classic data-exfil bug class
+
+---
+
 ## 2026-10-19
 
 - **Topic:** Deserialization
