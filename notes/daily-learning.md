@@ -1,3 +1,10 @@
+## 2026-10-21
+
+- **Topic:** Headers
+- **Note:** Scan for missing HSTS/Content-Security-Policy on any target - easy finding categories for bug bounties
+
+---
+
 ## 2026-10-20
 
 - **Topic:** CORS
