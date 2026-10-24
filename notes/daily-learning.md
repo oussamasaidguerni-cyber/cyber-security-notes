@@ -1,3 +1,10 @@
+## 2026-10-24
+
+- **Topic:** WebDAV
+- **Note:** If OPTIONS reveals PUT/DELETE, check if .txt.php or trailing-dot files bypass the parser
+
+---
+
 ## 2026-10-23
 
 - **Topic:** File Upload
