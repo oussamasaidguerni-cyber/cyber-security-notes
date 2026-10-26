@@ -1,3 +1,10 @@
+## 2026-10-26
+
+- **Topic:** JS Analysis
+- **Note:** Grep every JS bundle for /api/, apiKey, secret, token - developers leave endpoints in client code
+
+---
+
 ## 2026-10-25
 
 - **Topic:** DNS
