@@ -1,3 +1,10 @@
+## 2026-10-30
+
+- **Topic:** Logging
+- **Note:** Mass-assignment via JSON body: send {'role':'admin'} or {'isAdmin':true} and watch dev frameworks accept it
+
+---
+
 ## 2026-10-29
 
 - **Topic:** Open Redirect
