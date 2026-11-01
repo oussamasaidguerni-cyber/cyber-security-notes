@@ -1,3 +1,10 @@
+## 2026-11-01
+
+- **Topic:** SQLi
+- **Note:** Always test numeric params with arithmetic first (e.g. ?id=2-1 returns item 1) before reaching for sqlmap
+
+---
+
 ## 2026-10-31
 
 - **Topic:** Recon
