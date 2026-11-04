@@ -1,3 +1,10 @@
+## 2026-11-04
+
+- **Topic:** IDOR
+- **Note:** Burp macros + session rules can auto-fetch fresh tokens between Intruder requests when testing IDOR
+
+---
+
 ## 2026-11-03
 
 - **Topic:** Burp Suite
