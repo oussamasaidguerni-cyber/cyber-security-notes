@@ -1,3 +1,10 @@
+## 2026-11-12
+
+- **Topic:** File Upload
+- **Note:** Test extension case/polyglot: .phtml, .php5, .phar and double-extension bypass filters cheaply
+
+---
+
 ## 2026-11-11
 
 - **Topic:** Rate Limiting
