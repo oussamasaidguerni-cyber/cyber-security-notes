@@ -1,3 +1,10 @@
+## 2026-11-14
+
+- **Topic:** DNS
+- **Note:** Check for subdomain takeovers via canonical-name records pointing at expired cloud services
+
+---
+
 ## 2026-11-13
 
 - **Topic:** WebDAV
