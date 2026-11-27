@@ -1,3 +1,10 @@
+## 2026-11-27
+
+- **Topic:** Networking
+- **Note:** For a quick service overview, 'nmap -sV -sC -p-' on small ranges beats running separate tools
+
+---
+
 ## 2026-11-26
 
 - **Topic:** Fuzzing
